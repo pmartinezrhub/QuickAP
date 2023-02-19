@@ -3,7 +3,7 @@ function the_Title {
     echo ""
     echo "┏━┓╻ ╻╻┏━╸╻┏ ┏━┓┏━┓ ┏━┓╻ ╻"
     echo "┃┓┃┃ ┃┃┃  ┣┻┓┣━┫┣━┛ ┗━┓┣━┫"
-    echo "┗┻┛┗━┛╹┗━╸╹ ╹╹ ╹╹  ╹┗━┛╹ ╹ by pmartinez@proton.me GNU/GPLv3"
+    echo "┗┻┛┗━┛╹┗━╸╹ ╹╹ ╹╹  ╹┗━┛╹ ╹ by pmartinezr@proton.me GNU/GPLv3"
 }
 
 function start_hostapd {
