@@ -107,5 +107,3 @@ case $activate_yn in
 esac
 
 #start_hostapd
-
-
